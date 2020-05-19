@@ -15,6 +15,6 @@ class Appointment
   end 
   
   def patient 
-    self.patient
+    p self.patient
   end 
 end 
